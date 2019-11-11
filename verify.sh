@@ -1,0 +1,1 @@
+curl -H "Content-Type: application/json" -H "Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6Ik1PQ0tFRF9VU0VSTkFNRSIsImlhdCI6MTU3MzQwODc2OSwiZXhwIjoxNTczNDk1MTY5fQ.S2AQfmGJSl1V5Jf6-BoF3VjXDSAIJx0fCW31fEUXyFs" -X GET http://localhost:4001/auth/verify
